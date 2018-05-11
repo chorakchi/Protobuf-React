@@ -123,5 +123,5 @@ Other notes:
 
 <h1><p>
   <img alt="protobuf.js" src="https://github.com/dcodeIO/protobuf.js/raw/master/pbjs.png" width="120" height="104" />
-  <img alt="React.js" src="http://www.anamuser.com/wp-content/uploads/2017/03/logo-578x270.png" width="120" height="104" />
+  <img alt="React.js" src="http://www.anamuser.com/wp-content/uploads/2017/03/logo-578x270.png" height="104" />
 </p></h1>
