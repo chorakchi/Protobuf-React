@@ -12,6 +12,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "doc": "react-doc-generator ./src -o DOCUMENTATION.md",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-doc-generator": "^1.2.5"
   }
 }
